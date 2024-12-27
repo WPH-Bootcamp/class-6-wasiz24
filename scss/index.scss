@@ -1,6 +1,7 @@
 @use 'base';
 @use 'functions' as *;
 @use 'mixins' as *;
+@use 'sass:map';
 
 .title {
   @include typography('display-lg', 'bold');
