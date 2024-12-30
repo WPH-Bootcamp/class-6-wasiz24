@@ -30,7 +30,7 @@ $weights: (
     }
     font-weight: map.get($weights, $weight);
   } @else {
-    @warn 'Invalid size or weight specified';
+    @warn 'sangat Invalid size or weight specified';
   }
 }
 
