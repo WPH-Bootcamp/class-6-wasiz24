@@ -195,21 +195,21 @@ a {
 }
 
 .title-1 {
-  color: "brand,400";
+  color: #b692f6;
 }
 
 .title-2 {
-  color: "warning,600";
+  color: #dc6803;
 }
 
 .title-3 {
-  color: "error,500";
+  color: #f04438;
 }
 
 .title-4 {
-  color: "success,700";
+  color: #067647;
 }
 
 .title-5 {
-  color: "gray,600";
+  color: #475467;
 }

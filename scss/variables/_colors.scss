@@ -6,12 +6,12 @@ $black: #000;
 // $types: (
 //   'gray': 600,
 //   'brand': 400,
-//   'error': 500,
+//   'error': 500,s
 //   'warning': 600,
 //   'success': 700,
 // );
 
-$type: (
+$colors: (
   'gray': (
     '25': #fcfcfd,
     '50': #f9fafb,
@@ -81,92 +81,5 @@ $type: (
     '800': #085d3a,
     '900': #074d31,
     '950': #053321,
-  ),
-);
-
-$level: (
-  '25': (
-    'gray': #fcfcfd,
-    'brand': #fcfaff,
-    'error': #fffbfa,
-    'warning': #fffcf5,
-    'success': #f6fef9,
-  ),
-  '50': (
-    'gray': #f9fafb,
-    'brand': #f9f5ff,
-    'error': #fef3f2,
-    'warning': #fffaeb,
-    'success': #ecfdf3,
-  ),
-  '100': (
-    'gray': #f2f4f7,
-    'brand': #f4ebff,
-    'error': #fee4e2,
-    'warning': #fef0c7,
-    'success': #dcfae6,
-  ),
-  '200': (
-    'gray': #e4e7ec,
-    'brand': #e9d7fe,
-    'error': #fecdca,
-    'warning': #fedf89,
-    'success': #dcfae6,
-  ),
-  '300': (
-    'gray': #d0d5dd,
-    'brand': #d6bbfb,
-    'error': #fda29b,
-    'warning': #fec84b,
-    'success': #75e0a7,
-  ),
-  '400': (
-    'gray': #98a2b3,
-    'brand': #b692f6,
-    'error': #f97066,
-    'warning': #fdb022,
-    'success': #47cd89,
-  ),
-  '500': (
-    'gray': #667085,
-    'brand': #9e77ed,
-    'error': #f04438,
-    'warning': #f79009,
-    'success': #17b26a,
-  ),
-  '600': (
-    'gray': #475467,
-    'brand': #7f56d9,
-    'error': #d92d20,
-    'warning': #dc6803,
-    'success': #079455,
-  ),
-  '700': (
-    'gray': #344054,
-    'brand': #6941c6,
-    'error': #b42318,
-    'warning': #b54708,
-    'success': #067647,
-  ),
-  '800': (
-    'gray': #182230,
-    'brand': #53389e,
-    'error': #912018,
-    'warning': #93370d,
-    'success': #085d3a,
-  ),
-  '900': (
-    'gray': #101828,
-    'brand': #42307d,
-    'error': #7a271a,
-    'warning': #7a2e0e,
-    'success': #074d31,
-  ),
-  '950': (
-    'gray': #0c111d,
-    'brand': #2c1c5f,
-    'error': #55160c,
-    'warning': #4e1d09,
-    'success': #053321,
   ),
 );
